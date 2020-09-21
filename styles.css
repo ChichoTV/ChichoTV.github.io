@@ -1,0 +1,17 @@
+img{
+    height: 25%;
+    width: 25% ;
+}
+
+.vlr {
+    border-right: 6px solid red;
+    height: 500px
+}
+
+.vll {
+    border-left: 6px solid green;
+    height: 500px;
+  }
+body{
+    background-color: green;
+}
